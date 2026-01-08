@@ -1,2 +1,2 @@
-# Yaz-l-m-Modeli-Final-devi
+# Yazilim-Modeli-Final-odevi
  Yazılım Modeli Final Ödevi
